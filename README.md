@@ -51,10 +51,11 @@ Optimize your video output with these **high-fidelity Seedance 2.0 prompts**. Th
 'Figure 1 character battling Figure 2 character in the World Martial Arts Tournament' with input image
 ```
 
-<video width="400" controls>
-  <source src="videos/lucy_love_ai_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/aa723d28-994e-445d-a950-127903d9489b
+
+
 
 *Source: 露西的百宝箱 ([@Lucy_love_AI](https://x.com/Lucy_love_AI)) - [Post](https://x.com/Lucy_love_AI/status/2021037206585192749?s=20)*
 
@@ -72,10 +73,12 @@ Utilize **Seedance AI** for professional product showcases and brand storytellin
 Help me generate a promotional video about the MUJI brand.
 ```
 
-<video width="400" controls>
-  <source src="videos/guizang_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/8ea42edb-d3c8-4fb8-8046-f59a3c1ddb1d
+
+
+
 
 *Source: 歸藏(guizang.ai) ([@op7418](https://x.com/op7418)) - [Post](https://x.com/op7418/status/2021260675960504802?s=20)*
 
@@ -90,6 +93,11 @@ Based on the script from Image 1, generate advertising content for the perfume p
 **Input Images:**
 - <img width="400" alt="Input Image 1" src="https://pbs.twimg.com/media/HAluy_8WYAANsv_?format=jpg&name=small" /> *(Input Image 1: Script Reference)*
 - <img width="400" alt="Input Image 2" src="https://pbs.twimg.com/media/HAluy_6WMAAz9JS?format=jpg&name=small" /> *(Input Image 2: Perfume Product)*
+
+**Result video:**
+https://github.com/user-attachments/assets/7c8e24b9-b203-417f-b18a-6a1611d7871a
+
+
 
 *Source: Vicky ([@BFAVicky](https://x.com/BFAVicky)) - [Post](https://x.com/BFAVicky/status/2020267913316561195?s=20)*
 
@@ -125,10 +133,11 @@ Transition Design: The shattered ice crystals transform into dancing red leaves 
 Visual Focus: Testing Seedance 2.0's logical continuity using particle continuity.
 ```
 
-<video width="400" controls>
-  <source src="videos/adam_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/9f7dec03-a8c3-4dbb-96c2-0136f3105a9d
+
+
 
 *Source: Adam also known as Jimmy ([@Adam38363368936](https://x.com/Adam38363368936)) - [Post](https://x.com/Adam38363368936/status/2020530975072264442)*
 
@@ -140,10 +149,11 @@ Visual Focus: Testing Seedance 2.0's logical continuity using particle continuit
 An anime where an otter goes into a large mech, with lots of quick shots of mechanical parts and gears turning. The otter gives a grim thumbs up, and then pilots the mech, flying into battle against an octopus made of marble.
 ```
 
-<video width="400" controls>
-  <source src="videos/mollick_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/eb9ef0cd-5f75-48ff-8268-fc3d05aa9d61
+
+
 
 *Source: Ethan Mollick ([@emollick](https://x.com/emollick)) - [Post](https://x.com/emollick/status/2021412306291392535?s=20)*
 
@@ -158,6 +168,10 @@ Create motion graphics animation inspired by traditional animation techniques. B
 **Input Images:**
 - <img width="400" alt="Animation Example 1" src="https://pbs.twimg.com/media/HAuRAbDbQAAZ0Om?format=jpg&name=900x900" /> *(Input Image 1: Animation Reference)*
 - <img width="400" alt="Animation Example 2" src="https://pbs.twimg.com/media/HAuRAbBacAA0T52?format=jpg&name=900x900" /> *(Input Image 2: Animation Reference)*
+
+**Result video:**
+
+https://github.com/user-attachments/assets/19ba595f-ac45-4288-b7b4-5dc387bdd648
 
 *Source: Vicky ([@BFAVicky](https://x.com/BFAVicky)) - [Post](https://x.com/BFAVicky/status/2020868594729398554?s=20)*
 
@@ -174,10 +188,8 @@ Foreground: On the left is a huge cypress tree, twisted like burning black flame
 Background: A sleeping town in the valley, windows of houses emit warm, circularly painted yellow light. The entire scene slowly flows and breathes following the direction of brushstrokes.
 ```
 
-<video width="400" controls>
-  <source src="videos/vicky_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
 
 *Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020778466405159207?s=20)*
 
@@ -214,10 +226,10 @@ Power surges.
 Comedy and catastrophe collide.
 ```
 
-<video width="400" controls>
-  <source src="videos/nachos2d_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/8ee52841-29be-4c1f-8079-964c4ed15f37
+
+
 
 *Source: nachos2d ([@NACHOS2D_](https://x.com/NACHOS2D_)) - [Post](https://x.com/NACHOS2D_/status/2021295886978908547?s=20)*
 
@@ -229,10 +241,12 @@ Comedy and catastrophe collide.
 Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwing it overboard.
 ```
 
-<video width="400" controls>
-  <source src="videos/bootoshi_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/b5e2cc4c-9025-497e-a81c-3189d97b274b
+
+
+
 
 *Source: BOOTOSHI ([@KingBootoshi](https://x.com/KingBootoshi)) - [Post](https://x.com/KingBootoshi/status/2021349878232907790?s=20)*
 
@@ -274,10 +288,13 @@ Environment: Background is flowing city car lights forming elongated light trail
 [Technical Parameters]: Simulated handheld camera, shallow depth of field, color shift, emotionally intense.
 ```
 
-<video width="400" controls>
-  <source src="videos/john5_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+
+https://github.com/user-attachments/assets/a3be2f7e-a30b-4c7e-847b-447d315f6afe
+
+
+
 
 *Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020415877993156966?s=20)*
 
@@ -320,10 +337,7 @@ Duration: 15s.
 [10-15s] The Jump (The Climax). The rover hits a massive dune and launches into the air (Slow Motion). Silhouette against the dark storm. Lightning strikes within the dust cloud. Debris flies past the lens. Cut to black on impact.
 ```
 
-<video width="400" controls>
-  <source src="videos/john7_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 *Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020794007291404726?s=20)*
 
@@ -380,10 +394,10 @@ Style and atmosphere:
 **Aspect ratio:** 16:9
 ```
 
-<video width="400" controls>
-  <source src="videos/john2_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/76a2b32a-a7c7-42f7-af08-ea7ddcf3fed9
+
+
 
 *Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020027994429911370?s=20)*
 
@@ -406,10 +420,6 @@ At the moment the female lead sees the object in her hand, her pupils shake (ext
 【Dialogue lip-sync guidance】Female lead sobs with her head down (silent/whimpering).
 ```
 
-<video width="400" controls>
-  <source src="videos/john3_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 *Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020687040853975223?s=20)*
 
@@ -433,6 +443,10 @@ Male lead suddenly smirks and tears the divorce paper. At this moment, a massive
 The main door is kicked open, two rows of black-clad bodyguards rush in, kneeling on one knee to roll out a red carpet. An elderly butler tremblingly holds up a yellow robe (or ultimate black card) and runs to deeply bow in front of the male lead. The mother-in-law is so scared she collapses to the ground, her pupils shaking.
 【Dialogue lip-sync guidance】The butler shouts: "Welcome back, Dragon King (Young Master)! Family assets have been unfrozen!"
 ```
+
+
+https://github.com/user-attachments/assets/6fc8bdf1-7efe-4070-b2dd-a0aa36b05ed7
+
 
 <video width="400" controls>
   <source src="videos/john4_video.mp4" type="video/mp4">
