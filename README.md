@@ -16,7 +16,7 @@ This repository focuses on **high-fidelity Seedance 2.0 prompts** sourced from X
 3. [Anime & Animation Styles](#3-anime--animation-styles)
    - [3.1. Nezha and Ao Bing Ice-Fire Clash](#31-nezha-and-ao-bing-ice-fire-clash-space-time-folding)
    - [3.2. Otter Mecha Anime Battle](#32-otter-mecha-anime-battle-mech-vs-octopus)
-   - [3.3. Traditional Animation Style](#33-traditional-animation-style)
+   - [3.3. Motion Graphics](#33-motion-graphics)
    - [3.4. Van Gogh Post-Impressionism Style Animation](#34-van-gogh-post-impressionism-style-animation)
    - [3.5. Tournament of Power with Famous Anime Characters](#35-tournament-of-power-with-famous-anime-characters)
    - [3.6. Luffy Coding on MacBook](#36-luffy-coding-on-macbook-comedy-scene)
@@ -95,6 +95,7 @@ Based on the script from Image 1, generate advertising content for the perfume p
 <img width="400" alt="Input Image 1" src="https://pbs.twimg.com/media/HAluy_8WYAANsv_?format=jpg&name=small" /> *(Input Image 1: Script Reference)* <img width="400" alt="Input Image 2" src="https://pbs.twimg.com/media/HAluy_6WMAAz9JS?format=jpg&name=small" /> *(Input Image 2: Perfume Product)*
 
 **Result video:**
+
 https://github.com/user-attachments/assets/7c8e24b9-b203-417f-b18a-6a1611d7871a
 
 
