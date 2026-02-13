@@ -91,8 +91,8 @@ Based on the script from Image 1, generate advertising content for the perfume p
 ```
 
 **Input Images:**
-- <img width="400" alt="Input Image 1" src="https://pbs.twimg.com/media/HAluy_8WYAANsv_?format=jpg&name=small" /> *(Input Image 1: Script Reference)*
-- <img width="400" alt="Input Image 2" src="https://pbs.twimg.com/media/HAluy_6WMAAz9JS?format=jpg&name=small" /> *(Input Image 2: Perfume Product)*
+
+<img width="400" alt="Input Image 1" src="https://pbs.twimg.com/media/HAluy_8WYAANsv_?format=jpg&name=small" /> *(Input Image 1: Script Reference)* <img width="400" alt="Input Image 2" src="https://pbs.twimg.com/media/HAluy_6WMAAz9JS?format=jpg&name=small" /> *(Input Image 2: Perfume Product)*
 
 **Result video:**
 https://github.com/user-attachments/assets/7c8e24b9-b203-417f-b18a-6a1611d7871a
@@ -157,8 +157,8 @@ https://github.com/user-attachments/assets/eb9ef0cd-5f75-48ff-8268-fc3d05aa9d61
 
 *Source: Ethan Mollick ([@emollick](https://x.com/emollick)) - [Post](https://x.com/emollick/status/2021412306291392535?s=20)*
 
-### 3.3. Traditional Animation Style
-*Creating motion graphics animation using traditional animation style.*
+### 3.3. Motion Graphics
+*Creating motion graphics animation using 3D animation style.*
 
 **Prompt:**
 ```
@@ -166,8 +166,7 @@ Create motion graphics animation inspired by traditional animation techniques. B
 ```
 
 **Input Images:**
-- <img width="400" alt="Animation Example 1" src="https://pbs.twimg.com/media/HAuRAbDbQAAZ0Om?format=jpg&name=900x900" /> *(Input Image 1: Animation Reference)*
-- <img width="400" alt="Animation Example 2" src="https://pbs.twimg.com/media/HAuRAbBacAA0T52?format=jpg&name=900x900" /> *(Input Image 2: Animation Reference)*
+<img width="400" alt="Animation Example 1" src="https://pbs.twimg.com/media/HAuRAbDbQAAZ0Om?format=jpg&name=900x900" /> *(Input Image 1: Animation Reference)* <img width="400" alt="Animation Example 2" src="https://pbs.twimg.com/media/HAuRAbBacAA0T52?format=jpg&name=900x900" /> *(Input Image 2: Prompt Reference)*
 
 **Result video:**
 
@@ -187,6 +186,10 @@ Sky: In the deep blue night sky, huge yellow celestial bodies and crescent moon 
 Foreground: On the left is a huge cypress tree, twisted like burning black flames, shooting up to the sky.
 Background: A sleeping town in the valley, windows of houses emit warm, circularly painted yellow light. The entire scene slowly flows and breathes following the direction of brushstrokes.
 ```
+
+
+
+https://github.com/user-attachments/assets/6a982ca0-e508-4759-847c-ce18bf245a88
 
 
 
@@ -230,7 +233,6 @@ Comedy and catastrophe collide.
 https://github.com/user-attachments/assets/8ee52841-29be-4c1f-8079-964c4ed15f37
 
 
-
 *Source: nachos2d ([@NACHOS2D_](https://x.com/NACHOS2D_)) - [Post](https://x.com/NACHOS2D_/status/2021295886978908547?s=20)*
 
 ### 3.6. Luffy Coding on MacBook (Comedy Scene)
@@ -242,11 +244,7 @@ Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwing it overbo
 ```
 
 
-
 https://github.com/user-attachments/assets/b5e2cc4c-9025-497e-a81c-3189d97b274b
-
-
-
 
 *Source: BOOTOSHI ([@KingBootoshi](https://x.com/KingBootoshi)) - [Post](https://x.com/KingBootoshi/status/2021349878232907790?s=20)*
 
@@ -289,11 +287,7 @@ Environment: Background is flowing city car lights forming elongated light trail
 ```
 
 
-
-
 https://github.com/user-attachments/assets/a3be2f7e-a30b-4c7e-847b-447d315f6afe
-
-
 
 
 *Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020415877993156966?s=20)*
@@ -318,10 +312,9 @@ Dialogue Cue: He whispers "Focus" to himself.
 The starting lights turn Green. Both cars accelerate in perfect sync on the wet asphalt. Water sprays massively into the camera lens. Motion blur turns the stadium lights into long streaks of color.
 ```
 
-<video width="400" controls>
-  <source src="videos/john6_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/76ffff91-3b2b-47c4-953c-f9ff75834fe7
+
 
 *Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020515830874636716?s=20)*
 
@@ -336,6 +329,10 @@ Duration: 15s.
 [05-10s] Cockpit Cam (The Panic). Inside the lead rover. The pilot screams "GO! GO!" (Subtitle: MAX POWER!). Camera shakes violently. Sand blasts the windshield. The sun is blocked out by the approaching wall of dust.
 [10-15s] The Jump (The Climax). The rover hits a massive dune and launches into the air (Slow Motion). Silhouette against the dark storm. Lightning strikes within the dust cloud. Debris flies past the lens. Cut to black on impact.
 ```
+
+
+
+https://github.com/user-attachments/assets/1ab84150-de21-4d8b-bf26-340676b4f066
 
 
 
@@ -445,13 +442,9 @@ The main door is kicked open, two rows of black-clad bodyguards rush in, kneelin
 ```
 
 
-https://github.com/user-attachments/assets/6fc8bdf1-7efe-4070-b2dd-a0aa36b05ed7
+https://github.com/user-attachments/assets/510355c2-6c53-4587-8f1a-9913a0a54bbb
 
 
-<video width="400" controls>
-  <source src="videos/john4_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 *Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020688711172620665?s=20)*
 
@@ -481,10 +474,10 @@ The giant cat finally squeezes past the buildings and sits down on a cross-river
 Narrative sense: It lazily lies down and starts grooming itself, blocking the entire evening rush hour traffic. The camera finally freezes on its innocent big eyes.
 ```
 
-<video width="400" controls>
-  <source src="videos/john9_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/2c0688fe-7733-4a20-8f1d-ec0d5c60527c
+
+
 
 *Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020717903134204344?s=20)*
 
@@ -515,10 +508,9 @@ Action: The protagonist, who has already walked to the door, seems to sense some
 Result: The mirror has now completely returned to normal, completely empty, only reflecting the opposite wall. The protagonist scratches her head in confusion, showing a life-questioning expression toward the camera. The frame freezes on the protagonist's confused face (comedy effect).
 ```
 
-<video width="400" controls>
-  <source src="videos/john8_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/74c700e7-9371-4c1c-becf-ca3f9aadb357
+
 
 *Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020788951678607813?s=20)*
 
@@ -542,10 +534,10 @@ Only a corner of blue sky remains hanging in the sky. It turns out our living wo
 Ending: The camera rapidly pulls back to reveal that our entire world (city/wheat field) is actually just a **glass miniature landscape ball** on a giant's table. The giant is leaning in close to observe us.
 ```
 
-<video width="400" controls>
-  <source src="videos/john10_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/ccf43991-7f39-4550-8845-4aff2cec3ed4
+
+
 
 *Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020727853281628276?s=20)*
 
