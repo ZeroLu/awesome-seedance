@@ -25,7 +25,47 @@ This repository focuses on **high-fidelity Seedance 2.0 prompts** sourced from X
 
 Professional cinematic approaches inspired by renowned directors, perfectly suited for **Seedance 2.0 prompts**.
 
-### 1.1. Wong Kar-wai Film Style (Rainy Phone Booth Scene)
+### 1.1. Hollywood Professional Racing Movie Style
+*Le Mans-inspired cinematic racing scene with night rain and high stakes.*
+
+**Prompt:**
+```
+Style: Hollywood Professional Racing Movie (Le Mans Style), Cinematic Night, Rain, High Stakes Sport.
+Duration: 15s.
+
+[00-05s] Shot 1: The Veteran (Interior/Close-up).
+Rain lashes the windshield of a high-tech race car on a track. The Veteran driver (in helmet) looks over, calm and focused. Dashboard lights reflect on his visor.
+Dialogue Cue: He gives a subtle nod and mouths "Let's go."
+
+[05-10s] Shot 2: The Challenger (Interior/Close-up).
+Cut to the rival car next to him. The younger driver grips the wheel tight, breathing heavily. Eyes wide with adrenaline.
+Dialogue Cue: He whispers "Focus" to himself.
+
+[10-15s] Shot 3: The Green Light (Wide Action).
+The starting lights turn Green. Both cars accelerate in perfect sync on the wet asphalt. Water sprays massively into the camera lens. Motion blur turns the stadium lights into long streaks of color.
+```
+
+https://github.com/user-attachments/assets/76ffff91-3b2b-47c4-953c-f9ff75834fe7
+
+*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020515830874636716?s=20)*
+
+### 1.2. Denis Villeneuve Style Epic Desert Scene
+*Cinematic IMAX 70mm film style with epic scale and gritty realism.*
+
+**Prompt:**
+```
+Style: IMAX 70mm Film, Denis Villeneuve Style, Gritty Realism, Epic Scale, Desaturated.
+Duration: 15s.
+[00-05s] Extreme Wide Shot (The Scale). A colossal sandstorm, miles high, swallows a vast desert landscape. A tiny convoy of armored military vehicles races away from it. The scale of nature vs man is terrifying. Hans Zimmer style tension.
+[05-10s] Cockpit Cam (The Panic). Inside the lead rover. The pilot screams "GO! GO!" (Subtitle: MAX POWER!). Camera shakes violently. Sand blasts the windshield. The sun is blocked out by the approaching wall of dust.
+[10-15s] The Jump (The Climax). The rover hits a massive dune and launches into the air (Slow Motion). Silhouette against the dark storm. Lightning strikes within the dust cloud. Debris flies past the lens. Cut to black on impact.
+```
+
+https://github.com/user-attachments/assets/1ab84150-de21-4d8b-bf26-340676b4f066
+
+*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020794007291404726?s=20)*
+
+### 1.3. Wong Kar-wai Film Style (Rainy Phone Booth Scene)
 *Creating a nostalgic Hong Kong art cinema atmosphere with retro film grain and emotional depth.*
 
 **Prompt:**
@@ -60,46 +100,6 @@ Environment: Background is flowing city car lights forming elongated light trail
 https://github.com/user-attachments/assets/a3be2f7e-a30b-4c7e-847b-447d315f6afe
 
 *Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020415877993156966?s=20)*
-
-### 1.2. Hollywood Professional Racing Movie Style
-*Le Mans-inspired cinematic racing scene with night rain and high stakes.*
-
-**Prompt:**
-```
-Style: Hollywood Professional Racing Movie (Le Mans Style), Cinematic Night, Rain, High Stakes Sport.
-Duration: 15s.
-
-[00-05s] Shot 1: The Veteran (Interior/Close-up).
-Rain lashes the windshield of a high-tech race car on a track. The Veteran driver (in helmet) looks over, calm and focused. Dashboard lights reflect on his visor.
-Dialogue Cue: He gives a subtle nod and mouths "Let's go."
-
-[05-10s] Shot 2: The Challenger (Interior/Close-up).
-Cut to the rival car next to him. The younger driver grips the wheel tight, breathing heavily. Eyes wide with adrenaline.
-Dialogue Cue: He whispers "Focus" to himself.
-
-[10-15s] Shot 3: The Green Light (Wide Action).
-The starting lights turn Green. Both cars accelerate in perfect sync on the wet asphalt. Water sprays massively into the camera lens. Motion blur turns the stadium lights into long streaks of color.
-```
-
-https://github.com/user-attachments/assets/76ffff91-3b2b-47c4-953c-f9ff75834fe7
-
-*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020515830874636716?s=20)*
-
-### 1.3. Denis Villeneuve Style Epic Desert Scene
-*Cinematic IMAX 70mm film style with epic scale and gritty realism.*
-
-**Prompt:**
-```
-Style: IMAX 70mm Film, Denis Villeneuve Style, Gritty Realism, Epic Scale, Desaturated.
-Duration: 15s.
-[00-05s] Extreme Wide Shot (The Scale). A colossal sandstorm, miles high, swallows a vast desert landscape. A tiny convoy of armored military vehicles races away from it. The scale of nature vs man is terrifying. Hans Zimmer style tension.
-[05-10s] Cockpit Cam (The Panic). Inside the lead rover. The pilot screams "GO! GO!" (Subtitle: MAX POWER!). Camera shakes violently. Sand blasts the windshield. The sun is blocked out by the approaching wall of dust.
-[10-15s] The Jump (The Climax). The rover hits a massive dune and launches into the air (Slow Motion). Silhouette against the dark storm. Lightning strikes within the dust cloud. Debris flies past the lens. Cut to black on impact.
-```
-
-https://github.com/user-attachments/assets/1ab84150-de21-4d8b-bf26-340676b4f066
-
-*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020794007291404726?s=20)*
 
 ---
 
