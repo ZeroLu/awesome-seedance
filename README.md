@@ -2,9 +2,12 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![GitHub stars](https://img.shields.io/github/stars/ZeroLu/awesome-seedance?style=social)](https://github.com/ZeroLu/awesome-seedance/stargazers)
 
+｜[English](https://github.com/ZeroLu/awesome-seedance/)｜[简体中文](https://github.com/ZeroLu/awesome-seedance/blob/main/README-zh.md)｜
+
 > A curated collection of the **best Seedance 2.0 prompts**, video generation techniques, and resources for advanced **Seedance AI** experiments.
 
 This repository focuses on **high-fidelity Seedance 2.0 prompts** sourced from X (Twitter), WeChat, and top prompt engineers. Whether you are looking for **cinematic transitions**, **character consistency**, or complex motion sequences, you will find the most effective inputs here to unlock the full potential of **Seedance AI**.
+
 
 ## 📖 Table of Contents
 
