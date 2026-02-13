@@ -8,56 +8,98 @@ This repository focuses on **high-fidelity Seedance 2.0 prompts** sourced from X
 
 ## 📖 Table of Contents
 
-1. [Core Capabilities: Consistency & Motion](#1-core-capabilities-consistency--motion)
-   - [1.1. Figure 1 vs Figure 2 Martial Arts Tournament](#11-figure-1-vs-figure-2-martial-arts-tournament)
+1. [Cinematic Film Styles](#1-cinematic-film-styles)
 2. [Advertising & Commercial Branding](#2-advertising--commercial-branding)
-   - [2.1. MUJI Brand Promotional Video](#21-muji-brand-promotional-video)
-   - [2.2. Perfume MG Animation Style](#22-perfume-mg-animation-style)
-3. [Anime & Animation Styles](#3-anime--animation-styles)
-   - [3.1. Nezha and Ao Bing Ice-Fire Clash](#31-nezha-and-ao-bing-ice-fire-clash-space-time-folding)
-   - [3.2. Otter Mecha Anime Battle](#32-otter-mecha-anime-battle-mech-vs-octopus)
-   - [3.3. Motion Graphics](#33-motion-graphics)
-   - [3.4. Van Gogh Post-Impressionism Style Animation](#34-van-gogh-post-impressionism-style-animation)
-   - [3.5. Tournament of Power with Famous Anime Characters](#35-tournament-of-power-with-famous-anime-characters)
-   - [3.6. Luffy Coding on MacBook](#36-luffy-coding-on-macbook-comedy-scene)
-4. [Cinematic Film Styles](#4-cinematic-film-styles)
-   - [4.1. Wong Kar-wai Film Style](#41-wong-kar-wai-film-style-rainy-phone-booth-scene)
-   - [4.2. Hollywood Professional Racing Movie Style](#42-hollywood-professional-racing-movie-style)
-   - [4.3. Denis Villeneuve Style Epic Desert Scene](#43-denis-villeneuve-style-epic-desert-scene)
-5. [Short-form Drama & Web Series](#5-short-form-drama--web-series)
-   - [5.1. Chinese New Year Gala Style](#51-chinese-new-year-gala-style-zhen-huan--hu-fei-show)
-   - [5.2. Chinese Mini-Drama Style](#52-chinese-mini-drama-style-rainy-night-emotional-scene)
-   - [5.3. Chinese Viral CEO Drama Style](#53-chinese-viral-ceo-drama-style-vertical-format)
-6. [Social Media & Viral Memes](#6-social-media--viral-memes)
-   - [6.1. Giant Orange Cat Meme Style](#61-giant-orange-cat-meme-style)
+3. [Social Media & Viral Memes](#3-social-media--viral-memes)
+4. [UGC Style](#4-ugc-style)
+5. [Anime & Animation Styles](#5-anime--animation-styles)
+6. [Short-form Drama & Web Series](#6-short-form-drama--web-series)
 7. [Visual Effects & Experimental Styles](#7-visual-effects--experimental-styles)
-   - [7.1. Surrealistic Documentary Style](#71-surrealistic-documentary-style)
-   - [7.2. Surrealism and Megalophobia Style](#72-surrealism-and-megalophobia-style)
 8. [Resources (API & How-to-use)](#8-resources)
 9. [Contributing](#9-contributing)
 10. [Star History](#10-star-history)
 
 ---
 
-## 1. Core Capabilities: Consistency & Motion
+## 1. Cinematic Film Styles
 
-Optimize your video output with these **high-fidelity Seedance 2.0 prompts**. These are designed to utilize Seedance 2.0's ability to render complex actions, maintain character consistency, and handle dynamic transitions.
+Professional cinematic approaches inspired by renowned directors, perfectly suited for **Seedance 2.0 prompts**.
 
-### 1.1. Figure 1 vs Figure 2 Martial Arts Tournament
-*World martial arts tournament battle between two figures with input image.*
+### 1.1. Wong Kar-wai Film Style (Rainy Phone Booth Scene)
+*Creating a nostalgic Hong Kong art cinema atmosphere with retro film grain and emotional depth.*
 
 **Prompt:**
 ```
-'Figure 1 character battling Figure 2 character in the World Martial Arts Tournament' with input image
+[Film Style]: 90s Hong Kong Art Cinema style, retro film feel, high ISO grain, ambiguous yellow-green tint, frame stepping effect, melancholic atmosphere.
+
+[Core Dialogue (for emotion control)]: "If memories were canned food, I hope they never expire."
+
+[Video Duration]: 10 seconds
+[Script]:
+
+[00:00-00:04] Shot 1: Through the Glass Peeping.
+Scene: A rain-covered red public telephone booth.
+Character: A man (or woman) in a khaki trench coat holding the receiver tightly, not speaking, just listening.
+Emotional Performance: Through the glass refraction, see his/her eyes hollow yet deeply emotional. Rain flows down the glass, distorting his face like an oil painting.
+Subtitle/Narrative sense: The picture seems frozen, only the sound of rain.
+
+[00:04-00:07] Shot 2: Extreme Close-up & Micro-expression.
+Scene: Focus on the character's lips and half face.
+Action: He/She whispers softly into the receiver. Lips tremble slightly, seeming to want to say something but swallow it back.
+Lighting: Street neon bokeh flows across his face, bright and dim alternately.
+Dialogue Emotion Mapping: Shows the ultimate restraint and loneliness of "wanting to touch but drawing back".
+
+[00:07-00:10] Shot 3: Signature Slow-shutter Drag Shadow.
+Scene: Character hangs up phone, turns around and walks into the rainy crowd.
+Visual Effect: Using frame stepping effect (stop-motion feel), the character's back becomes blurred with trailing shadows (motion blur), as if the soul stayed in place while only the body walks away.
+Environment: Background is flowing city car lights forming elongated light trails.
+
+[Technical Parameters]: Simulated handheld camera, shallow depth of field, color shift, emotionally intense.
 ```
 
+https://github.com/user-attachments/assets/a3be2f7e-a30b-4c7e-847b-447d315f6afe
 
+*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020415877993156966?s=20)*
 
-https://github.com/user-attachments/assets/aa723d28-994e-445d-a950-127903d9489b
+### 1.2. Hollywood Professional Racing Movie Style
+*Le Mans-inspired cinematic racing scene with night rain and high stakes.*
 
+**Prompt:**
+```
+Style: Hollywood Professional Racing Movie (Le Mans Style), Cinematic Night, Rain, High Stakes Sport.
+Duration: 15s.
 
+[00-05s] Shot 1: The Veteran (Interior/Close-up).
+Rain lashes the windshield of a high-tech race car on a track. The Veteran driver (in helmet) looks over, calm and focused. Dashboard lights reflect on his visor.
+Dialogue Cue: He gives a subtle nod and mouths "Let's go."
 
-*Source: 露西的百宝箱 ([@Lucy_love_AI](https://x.com/Lucy_love_AI)) - [Post](https://x.com/Lucy_love_AI/status/2021037206585192749?s=20)*
+[05-10s] Shot 2: The Challenger (Interior/Close-up).
+Cut to the rival car next to him. The younger driver grips the wheel tight, breathing heavily. Eyes wide with adrenaline.
+Dialogue Cue: He whispers "Focus" to himself.
+
+[10-15s] Shot 3: The Green Light (Wide Action).
+The starting lights turn Green. Both cars accelerate in perfect sync on the wet asphalt. Water sprays massively into the camera lens. Motion blur turns the stadium lights into long streaks of color.
+```
+
+https://github.com/user-attachments/assets/76ffff91-3b2b-47c4-953c-f9ff75834fe7
+
+*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020515830874636716?s=20)*
+
+### 1.3. Denis Villeneuve Style Epic Desert Scene
+*Cinematic IMAX 70mm film style with epic scale and gritty realism.*
+
+**Prompt:**
+```
+Style: IMAX 70mm Film, Denis Villeneuve Style, Gritty Realism, Epic Scale, Desaturated.
+Duration: 15s.
+[00-05s] Extreme Wide Shot (The Scale). A colossal sandstorm, miles high, swallows a vast desert landscape. A tiny convoy of armored military vehicles races away from it. The scale of nature vs man is terrifying. Hans Zimmer style tension.
+[05-10s] Cockpit Cam (The Panic). Inside the lead rover. The pilot screams "GO! GO!" (Subtitle: MAX POWER!). Camera shakes violently. Sand blasts the windshield. The sun is blocked out by the approaching wall of dust.
+[10-15s] The Jump (The Climax). The rover hits a massive dune and launches into the air (Slow Motion). Silhouette against the dark storm. Lightning strikes within the dust cloud. Debris flies past the lens. Cut to black on impact.
+```
+
+https://github.com/user-attachments/assets/1ab84150-de21-4d8b-bf26-340676b4f066
+
+*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020794007291404726?s=20)*
 
 ---
 
@@ -73,12 +115,7 @@ Utilize **Seedance AI** for professional product showcases and brand storytellin
 Help me generate a promotional video about the MUJI brand.
 ```
 
-
-
 https://github.com/user-attachments/assets/8ea42edb-d3c8-4fb8-8046-f59a3c1ddb1d
-
-
-
 
 *Source: 歸藏(guizang.ai) ([@op7418](https://x.com/op7418)) - [Post](https://x.com/op7418/status/2021260675960504802?s=20)*
 
@@ -98,17 +135,88 @@ Based on the script from Image 1, generate advertising content for the perfume p
 
 https://github.com/user-attachments/assets/7c8e24b9-b203-417f-b18a-6a1611d7871a
 
-
-
 *Source: Vicky ([@BFAVicky](https://x.com/BFAVicky)) - [Post](https://x.com/BFAVicky/status/2020267913316561195?s=20)*
 
 ---
 
-## 3. Anime & Animation Styles
+## 3. Social Media & Viral Memes
 
-Explore various anime and animation techniques with these specialized **Seedance 2.0 prompts**.
+Create attention-grabbing content for social platforms with these creative **Seedance AI** prompts.
 
-### 3.1. Nezha and Ao Bing Ice-Fire Clash (Space-Time Folding)
+### 3.1. Giant Orange Cat Meme Style
+*Comedic surrealism featuring a Godzilla-sized orange cat in a Chinese city.*
+
+**Prompt:**
+```
+【Style】Mockumentary, mobile Vlog perspective, hyperrealistic CG combined with real scenes, 8K quality, perfect fur physics simulation.
+【Duration】15 seconds
+【Scene】Hongya Cave in Chongqing or a busy overpass intersection (with magical 8D city feel).
+[00:00-00:05] Shot 1: Visual spectacle (The Reveal).
+The scene shows a bustling city street. The camera lifts up to reveal a **Gozilla-sized orange tabby cat** stuck between two skyscrapers.
+Action: The giant cat is stuck because it's too fat, waving its huge paws with a pitiful expression, trying to pull itself out.
+Detail: Cat fur is clearly visible in the sunlight, huge paw pads pressing against glass curtain walls, deforming the glass.
+[00:05-00:10] Shot 2: Absurd interaction (The Interaction).
+The camera switches to ground-level perspective. Traffic flows on the street, traffic lights flashing. The giant cat lowers its head, bringing its huge cat face close to the ground, curiously sniffing a bus waiting at a red light.
+Action: The bus driver calmly reaches out and pets the giant cat's nose. The cat sneezes, instantly blowing away roadside leaves and pedestrians' hats (wind effect).
+[00:10-00:15] Shot 3: Memetic ending (The Punchline).
+The giant cat finally squeezes past the buildings and sits down on a cross-river bridge, causing the bridge deck to sink slightly (physical feedback).
+Narrative sense: It lazily lies down and starts grooming itself, blocking the entire evening rush hour traffic. The camera finally freezes on its innocent big eyes.
+```
+
+https://github.com/user-attachments/assets/2c0688fe-7733-4a20-8f1d-ec0d5c60527c
+
+*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020717903134204344?s=20)*
+
+---
+
+## 4. UGC Style
+
+This category focuses on "User-Generated Content" aesthetics, mimicking everyday camera phone footage with surreal twists.
+
+### 4.1. Surrealistic Documentary Style
+*Reality-bending vlog with a twist on mirror reflections.*
+
+**Prompt:**
+```
+【Style】Mockumentary (Vlog Style), hyperrealism, fixed-camera real-shot feel, natural lighting, with a slight suspenseful comedy tone.
+【Duration】15 seconds
+【Main Character】An ordinary young beautiful woman, in front of the bathroom sink at home.
+[00:00-00:06] Shot 1: Daily setup (Normalcy).
+Scene: In front of a regular bathroom mirror.
+Action: The protagonist is brushing her teeth, mouth full of foam. She makes various funny faces (squinting, eyebrow-wiggling) at the mirror while brushing her teeth.
+Key detail: At this point, the reflection in the mirror is completely normal, movements synchronized.
+[00:06-00:11] Shot 2: BUG appears (The Glitch).
+Action: After brushing teeth, the protagonist lowers her head to spit out foam, then turns around to leave the bathroom.
+High-impact moment (core climax): Just as the protagonist's real body has turned and left the mirror frame, the "reflection" in the mirror **doesn't move**! That "reflection" still maintains the tooth-brushing pose, even mischievously raising eyebrows at the camera with a bad smile, staying for a full 2 seconds, before suddenly panicking and "fast-forwarding" to catch up with the original body's movements before disappearing.
+Director's note: Must create an extremely realistic "network delay" feel, as if the reflection has independent consciousness.
+[00:11-00:15] Shot 3: Comedic callback (The Punchline).
+Action: The protagonist, who has already walked to the door, seems to sense something is wrong, suddenly turning back to look at the mirror.
+Result: The mirror has now completely returned to normal, completely empty, only reflecting the opposite wall. The protagonist scratches her head in confusion, showing a life-questioning expression toward the camera. The frame freezes on the protagonist's confused face (comedy effect).
+```
+
+https://github.com/user-attachments/assets/74c700e7-9371-4c1c-becf-ca3f9aadb357
+
+*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020788951678607813?s=20)*
+
+---
+
+## 5. Anime & Animation Styles
+
+Explore various anime and animation techniques, including tests for character consistency and dynamic motion.
+
+### 5.1. Figure 1 vs Figure 2 Martial Arts Tournament
+*World martial arts tournament battle between two figures with input image.*
+
+**Prompt:**
+```
+'Figure 1 character battling Figure 2 character in the World Martial Arts Tournament' with input image
+```
+
+https://github.com/user-attachments/assets/aa723d28-994e-445d-a950-127903d9489b
+
+*Source: 露西的百宝箱 ([@Lucy_love_AI](https://x.com/Lucy_love_AI)) - [Post](https://x.com/Lucy_love_AI/status/2021037206585192749?s=20)*
+
+### 5.2. Nezha and Ao Bing Ice-Fire Clash (Space-Time Folding)
 *Testing dynamic consistency and motion transitions with high-frequency, large-scale actions.*
 
 **Prompt:**
@@ -134,15 +242,11 @@ Transition Design: The shattered ice crystals transform into dancing red leaves 
 Visual Focus: Testing Seedance 2.0's logical continuity using particle continuity.
 ```
 
-
-
 https://github.com/user-attachments/assets/9f7dec03-a8c3-4dbb-96c2-0136f3105a9d
-
-
 
 *Source: Adam also known as Jimmy ([@Adam38363368936](https://x.com/Adam38363368936)) - [Post](https://x.com/Adam38363368936/status/2020530975072264442)*
 
-### 3.2. Otter Mecha Anime Battle (Mech vs. Octopus)
+### 5.3. Otter Mecha Anime Battle (Mech vs. Octopus)
 *Anime scene with mechanical parts, otter piloting a mech, and battle against a marble octopus.*
 
 **Prompt:**
@@ -150,15 +254,11 @@ https://github.com/user-attachments/assets/9f7dec03-a8c3-4dbb-96c2-0136f3105a9d
 An anime where an otter goes into a large mech, with lots of quick shots of mechanical parts and gears turning. The otter gives a grim thumbs up, and then pilots the mech, flying into battle against an octopus made of marble.
 ```
 
-
-
 https://github.com/user-attachments/assets/eb9ef0cd-5f75-48ff-8268-fc3d05aa9d61
-
-
 
 *Source: Ethan Mollick ([@emollick](https://x.com/emollick)) - [Post](https://x.com/emollick/status/2021412306291392535?s=20)*
 
-### 3.3. Motion Graphics
+### 5.4. Motion Graphics
 *Creating motion graphics animation using 3D animation style.*
 
 **Prompt:**
@@ -175,7 +275,7 @@ https://github.com/user-attachments/assets/19ba595f-ac45-4288-b7b4-5dc387bdd648
 
 *Source: Vicky ([@BFAVicky](https://x.com/BFAVicky)) - [Post](https://x.com/BFAVicky/status/2020868594729398554?s=20)*
 
-### 3.4. Van Gogh Post-Impressionism Style Animation
+### 5.5. Van Gogh Post-Impressionism Style Animation
 *Dreamy animated world created with thick oil paint textures and swirling brushstrokes.*
 
 **Prompt:**
@@ -188,16 +288,11 @@ Foreground: On the left is a huge cypress tree, twisted like burning black flame
 Background: A sleeping town in the valley, windows of houses emit warm, circularly painted yellow light. The entire scene slowly flows and breathes following the direction of brushstrokes.
 ```
 
-
-
 https://github.com/user-attachments/assets/6a982ca0-e508-4759-847c-ce18bf245a88
-
-
-
 
 *Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020778466405159207?s=20)*
 
-### 3.5. Tournament of Power with Famous Anime Characters
+### 5.6. Tournament of Power with Famous Anime Characters
 *Epic anime battle scene with multiple characters from different series in a cosmic arena.*
 
 **Prompt:**
@@ -230,13 +325,11 @@ Power surges.
 Comedy and catastrophe collide.
 ```
 
-
 https://github.com/user-attachments/assets/8ee52841-29be-4c1f-8079-964c4ed15f37
-
 
 *Source: nachos2d ([@NACHOS2D_](https://x.com/NACHOS2D_)) - [Post](https://x.com/NACHOS2D_/status/2021295886978908547?s=20)*
 
-### 3.6. Luffy Coding on MacBook (Comedy Scene)
+### 5.7. Luffy Coding on MacBook (Comedy Scene)
 *Funny scene of anime character Luffy getting frustrated with coding and throwing the laptop overboard.*
 
 **Prompt:**
@@ -244,108 +337,17 @@ https://github.com/user-attachments/assets/8ee52841-29be-4c1f-8079-964c4ed15f37
 Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwing it overboard.
 ```
 
-
 https://github.com/user-attachments/assets/b5e2cc4c-9025-497e-a81c-3189d97b274b
 
 *Source: BOOTOSHI ([@KingBootoshi](https://x.com/KingBootoshi)) - [Post](https://x.com/KingBootoshi/status/2021349878232907790?s=20)*
 
 ---
 
-## 4. Cinematic Film Styles
-
-Professional cinematic approaches inspired by renowned directors, perfectly suited for **Seedance 2.0 prompts**.
-
-### 4.1. Wong Kar-wai Film Style (Rainy Phone Booth Scene)
-*Creating a nostalgic Hong Kong art cinema atmosphere with retro film grain and emotional depth.*
-
-**Prompt:**
-```
-[Film Style]: 90s Hong Kong Art Cinema style, retro film feel, high ISO grain, ambiguous yellow-green tint, frame stepping effect, melancholic atmosphere.
-
-[Core Dialogue (for emotion control)]: "If memories were canned food, I hope they never expire."
-
-[Video Duration]: 10 seconds
-[Script]:
-
-[00:00-00:04] Shot 1: Through the Glass Peeping.
-Scene: A rain-covered red public telephone booth.
-Character: A man (or woman) in a khaki trench coat holding the receiver tightly, not speaking, just listening.
-Emotional Performance: Through the glass refraction, see his/her eyes hollow yet deeply emotional. Rain flows down the glass, distorting his face like an oil painting.
-Subtitle/Narrative sense: The picture seems frozen, only the sound of rain.
-
-[00:04-00:07] Shot 2: Extreme Close-up & Micro-expression.
-Scene: Focus on the character's lips and half face.
-Action: He/She whispers softly into the receiver. Lips tremble slightly, seeming to want to say something but swallow it back.
-Lighting: Street neon bokeh flows across his face, bright and dim alternately.
-Dialogue Emotion Mapping: Shows the ultimate restraint and loneliness of "wanting to touch but drawing back".
-
-[00:07-00:10] Shot 3: Signature Slow-shutter Drag Shadow.
-Scene: Character hangs up phone, turns around and walks into the rainy crowd.
-Visual Effect: Using frame stepping effect (stop-motion feel), the character's back becomes blurred with trailing shadows (motion blur), as if the soul stayed in place while only the body walks away.
-Environment: Background is flowing city car lights forming elongated light trails.
-
-[Technical Parameters]: Simulated handheld camera, shallow depth of field, color shift, emotionally intense.
-```
-
-
-https://github.com/user-attachments/assets/a3be2f7e-a30b-4c7e-847b-447d315f6afe
-
-
-*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020415877993156966?s=20)*
-
-### 4.2. Hollywood Professional Racing Movie Style
-*Le Mans-inspired cinematic racing scene with night rain and high stakes.*
-
-**Prompt:**
-```
-Style: Hollywood Professional Racing Movie (Le Mans Style), Cinematic Night, Rain, High Stakes Sport.
-Duration: 15s.
-
-[00-05s] Shot 1: The Veteran (Interior/Close-up).
-Rain lashes the windshield of a high-tech race car on a track. The Veteran driver (in helmet) looks over, calm and focused. Dashboard lights reflect on his visor.
-Dialogue Cue: He gives a subtle nod and mouths "Let's go."
-
-[05-10s] Shot 2: The Challenger (Interior/Close-up).
-Cut to the rival car next to him. The younger driver grips the wheel tight, breathing heavily. Eyes wide with adrenaline.
-Dialogue Cue: He whispers "Focus" to himself.
-
-[10-15s] Shot 3: The Green Light (Wide Action).
-The starting lights turn Green. Both cars accelerate in perfect sync on the wet asphalt. Water sprays massively into the camera lens. Motion blur turns the stadium lights into long streaks of color.
-```
-
-
-https://github.com/user-attachments/assets/76ffff91-3b2b-47c4-953c-f9ff75834fe7
-
-
-*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020515830874636716?s=20)*
-
-### 4.3. Denis Villeneuve Style Epic Desert Scene
-*Cinematic IMAX 70mm film style with epic scale and gritty realism.*
-
-**Prompt:**
-```
-Style: IMAX 70mm Film, Denis Villeneuve Style, Gritty Realism, Epic Scale, Desaturated.
-Duration: 15s.
-[00-05s] Extreme Wide Shot (The Scale). A colossal sandstorm, miles high, swallows a vast desert landscape. A tiny convoy of armored military vehicles races away from it. The scale of nature vs man is terrifying. Hans Zimmer style tension.
-[05-10s] Cockpit Cam (The Panic). Inside the lead rover. The pilot screams "GO! GO!" (Subtitle: MAX POWER!). Camera shakes violently. Sand blasts the windshield. The sun is blocked out by the approaching wall of dust.
-[10-15s] The Jump (The Climax). The rover hits a massive dune and launches into the air (Slow Motion). Silhouette against the dark storm. Lightning strikes within the dust cloud. Debris flies past the lens. Cut to black on impact.
-```
-
-
-
-https://github.com/user-attachments/assets/1ab84150-de21-4d8b-bf26-340676b4f066
-
-
-
-*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020794007291404726?s=20)*
-
----
-
-## 5. Short-form Drama & Web Series
+## 6. Short-form Drama & Web Series
 
 Captivating short-form content with dramatic narratives and viral appeal, ideal for mini-series production using **Seedance AI**.
 
-### 5.1. Chinese New Year Gala Style: Zhen Huan & Hu Fei Show
+### 6.1. Chinese New Year Gala Style: Zhen Huan & Hu Fei Show
 *A 10-second stage performance with contrasting historical formality and modern workplace humor.*
 
 **Prompt:**
@@ -392,14 +394,11 @@ Style and atmosphere:
 **Aspect ratio:** 16:9
 ```
 
-
 https://github.com/user-attachments/assets/76a2b32a-a7c7-42f7-af08-ea7ddcf3fed9
-
-
 
 *Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020027994429911370?s=20)*
 
-### 5.2. Chinese Mini-Drama Style (Rainy Night Emotional Scene)
+### 6.2. Chinese Mini-Drama Style (Rainy Night Emotional Scene)
 *Intense emotional drama with fast-paced editing and dramatic rain setting.*
 
 **Prompt:**
@@ -418,10 +417,9 @@ At the moment the female lead sees the object in her hand, her pupils shake (ext
 【Dialogue lip-sync guidance】Female lead sobs with her head down (silent/whimpering).
 ```
 
-
 *Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020687040853975223?s=20)*
 
-### 5.3. Chinese Viral CEO Drama Style (Vertical Format)
+### 6.3. Chinese Viral CEO Drama Style (Vertical Format)
 *Viral short-form content with dramatic plot twists in vertical format.*
 
 **Prompt:**
@@ -442,45 +440,9 @@ The main door is kicked open, two rows of black-clad bodyguards rush in, kneelin
 【Dialogue lip-sync guidance】The butler shouts: "Welcome back, Dragon King (Young Master)! Family assets have been unfrozen!"
 ```
 
-
 https://github.com/user-attachments/assets/510355c2-6c53-4587-8f1a-9913a0a54bbb
 
-
-
 *Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020688711172620665?s=20)*
-
----
-
-## 6. Social Media & Viral Memes
-
-Create attention-grabbing content for social platforms with these creative **Seedance AI** prompts.
-
-### 6.1. Giant Orange Cat Meme Style
-*Comedic surrealism featuring a Godzilla-sized orange cat in a Chinese city.*
-
-**Prompt:**
-```
-【Style】Mockumentary, mobile Vlog perspective, hyperrealistic CG combined with real scenes, 8K quality, perfect fur physics simulation.
-【Duration】15 seconds
-【Scene】Hongya Cave in Chongqing or a busy overpass intersection (with magical 8D city feel).
-[00:00-00:05] Shot 1: Visual spectacle (The Reveal).
-The scene shows a bustling city street. The camera lifts up to reveal a **Gozilla-sized orange tabby cat** stuck between two skyscrapers.
-Action: The giant cat is stuck because it's too fat, waving its huge paws with a pitiful expression, trying to pull itself out.
-Detail: Cat fur is clearly visible in the sunlight, huge paw pads pressing against glass curtain walls, deforming the glass.
-[00:05-00:10] Shot 2: Absurd interaction (The Interaction).
-The camera switches to ground-level perspective. Traffic flows on the street, traffic lights flashing. The giant cat lowers its head, bringing its huge cat face close to the ground, curiously sniffing a bus waiting at a red light.
-Action: The bus driver calmly reaches out and pets the giant cat's nose. The cat sneezes, instantly blowing away roadside leaves and pedestrians' hats (wind effect).
-[00:10-00:15] Shot 3: Memetic ending (The Punchline).
-The giant cat finally squeezes past the buildings and sits down on a cross-river bridge, causing the bridge deck to sink slightly (physical feedback).
-Narrative sense: It lazily lies down and starts grooming itself, blocking the entire evening rush hour traffic. The camera finally freezes on its innocent big eyes.
-```
-
-
-https://github.com/user-attachments/assets/2c0688fe-7733-4a20-8f1d-ec0d5c60527c
-
-
-
-*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020717903134204344?s=20)*
 
 ---
 
@@ -488,34 +450,7 @@ https://github.com/user-attachments/assets/2c0688fe-7733-4a20-8f1d-ec0d5c60527c
 
 Creative visual effects and experimental approaches for unique artistic outcomes.
 
-### 7.1. Surrealistic Documentary Style
-*Reality-bending vlog with a twist on mirror reflections.*
-
-**Prompt:**
-```
-【Style】Mockumentary (Vlog Style), hyperrealism, fixed-camera real-shot feel, natural lighting, with a slight suspenseful comedy tone.
-【Duration】15 seconds
-【Main Character】An ordinary young beautiful woman, in front of the bathroom sink at home.
-[00:00-00:06] Shot 1: Daily setup (Normalcy).
-Scene: In front of a regular bathroom mirror.
-Action: The protagonist is brushing her teeth, mouth full of foam. She makes various funny faces (squinting, eyebrow-wiggling) at the mirror while brushing her teeth.
-Key detail: At this point, the reflection in the mirror is completely normal, movements synchronized.
-[00:06-00:11] Shot 2: BUG appears (The Glitch).
-Action: After brushing teeth, the protagonist lowers her head to spit out foam, then turns around to leave the bathroom.
-High-impact moment (core climax): Just as the protagonist's real body has turned and left the mirror frame, the "reflection" in the mirror **doesn't move**! That "reflection" still maintains the tooth-brushing pose, even mischievously raising eyebrows at the camera with a bad smile, staying for a full 2 seconds, before suddenly panicking and "fast-forwarding" to catch up with the original body's movements before disappearing.
-Director's note: Must create an extremely realistic "network delay" feel, as if the reflection has independent consciousness.
-[00:11-00:15] Shot 3: Comedic callback (The Punchline).
-Action: The protagonist, who has already walked to the door, seems to sense something is wrong, suddenly turning back to look at the mirror.
-Result: The mirror has now completely returned to normal, completely empty, only reflecting the opposite wall. The protagonist scratches her head in confusion, showing a life-questioning expression toward the camera. The frame freezes on the protagonist's confused face (comedy effect).
-```
-
-
-https://github.com/user-attachments/assets/74c700e7-9371-4c1c-becf-ca3f9aadb357
-
-
-*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020788951678607813?s=20)*
-
-### 7.2. Surrealism and Megalophobia Style
+### 7.1. Surrealism and Megalophobia Style
 *Reality-bending sky-zipper concept with God-like hands and cyberpunk world.*
 
 **Prompt:**
@@ -535,10 +470,7 @@ Only a corner of blue sky remains hanging in the sky. It turns out our living wo
 Ending: The camera rapidly pulls back to reveal that our entire world (city/wheat field) is actually just a **glass miniature landscape ball** on a giant's table. The giant is leaning in close to observe us.
 ```
 
-
 https://github.com/user-attachments/assets/ccf43991-7f39-4550-8845-4aff2cec3ed4
-
-
 
 *Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020727853281628276?s=20)*
 
@@ -552,17 +484,8 @@ https://github.com/user-attachments/assets/ccf43991-7f39-4550-8845-4aff2cec3ed4
 - [ByteDance Jianying Official Site](https://www.jianying.com/) - Platform and tools
 - [twitterxz.com](https://twitterxz.com/) - Twitter video downloader
 
-## 9. Local Setup
 
-To view the videos locally:
-1. Clone this repository: `git clone https://github.com/ZeroLu/awesome-seedance.git`
-2. The videos are stored in the `videos/` directory
-3. Open the README.md file in a browser that supports the video formats
-4. Alternatively, run a local server: `python -m http.server 8000` and visit http://localhost:8000
-
-Note: Some browsers may not support all video formats. If videos do not play in your browser, you can download and view them using a media player like VLC.
-
-## 10. Contributing
+## 9. Contributing
 
 Contributions are welcome! If you have an **awesome Seedance 2.0 prompt**, please submit a Pull Request.
 
@@ -573,7 +496,7 @@ Contributions are welcome! If you have an **awesome Seedance 2.0 prompt**, pleas
 
 Please ensure you include the **Source** (link to the original creator) to give credit where it is due.
 
-## 11. Star History
+## 10. Star History
 
 <a href="https://star-history.com/#ZeroLu/awesome-seedance&Date">
  <picture>
