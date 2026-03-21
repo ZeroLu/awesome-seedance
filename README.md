@@ -265,7 +265,56 @@ https://github.com/user-attachments/assets/eb9ef0cd-5f75-48ff-8268-fc3d05aa9d61
 
 *Source: Ethan Mollick ([@emollick](https://x.com/emollick)) - [Post](https://x.com/emollick/status/2021412306291392535?s=20)*
 
-### 5.4. Motion Graphics
+### 5.4. X Bookmarks Pick: 10 Must-Try Animation Styles
+*An X-bookmarked Seedance 2.0 style-consistency reference, useful as an inspiration index for animation workflows.*
+
+**Prompt / Key Text:**
+```
+Seedance 2.0 nails style consistency.
+
+10 must-try animation styles:
+
+1) Stylized 3D
+```
+
+**Why it matters:**
+- Strong example of Seedance 2.0 maintaining visual consistency across stylized animation output
+- Useful as a collection seed for future breakdowns of animation sub-styles
+- Includes embedded video in the original post
+
+**Video length:** `0:07`
+
+**Original Post:**
+https://x.com/Framer_X/status/2028144981631029408
+
+**Metrics at capture time:** 94.3K Views · 1.2K Likes · 1.5K Bookmarks
+
+*Source: Framer ([@Framer_X](https://x.com/Framer_X)) - [Post](https://x.com/Framer_X/status/2028144981631029408)*
+
+### 5.5. X Bookmarks Pick: Why Won’t It Stay?!
+*Recent Seedance 2.0 video example found in X bookmarks.*
+
+**Post Text:**
+```
+Why Won’t It Stay?! 🎬
+
+Seedance 2.0 Prompt shared below
+```
+
+**What is confirmed:**
+- Embedded video exists in the bookmarked post
+- The post explicitly says the full prompt is shared below
+- Current visible metrics: 47.9K Views · 393 Likes · 308 Bookmarks
+
+**What is not yet recovered:**
+- Full prompt text from the follow-up thread / reply chain
+- Stable canonical status URL from the current browser session
+
+**Source profile:** https://x.com/0xbisc
+
+*Source: Latte ([@0xbisc](https://x.com/0xbisc))*
+
+### 5.6. Motion Graphics
 *Creating motion graphics animation using 3D animation style.*
 
 **Prompt:**

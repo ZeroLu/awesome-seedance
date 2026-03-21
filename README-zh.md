@@ -330,7 +330,56 @@ https://github.com/user-attachments/assets/eb9ef0cd-5f75-48ff-8268-fc3d05aa9d61
 
 *来源：Ethan Mollick ([@emollick](https://x.com/emollick)) - [推文](https://x.com/emollick/status/2021412306291392535?s=20)*
 
-### 5.4. 动态图形
+### 5.4. X书签精选：10种必试动画风格
+*来自 X 书签的 Seedance 2.0 风格一致性案例，适合作为动画风格灵感索引。*
+
+**提示词/要点：**
+```
+Seedance 2.0 nails style consistency.
+
+10 must-try animation styles:
+
+1) Stylized 3D
+```
+
+**价值点：**
+- 很适合用来展示 Seedance 2.0 的风格一致性能力
+- 适合作为后续整理更多动画子风格 prompt 的入口帖
+- 原帖带有嵌入视频
+
+**视频时长：** `0:07`
+
+**原帖：**
+https://x.com/Framer_X/status/2028144981631029408
+
+**数据（抓取时）：** 94.3K Views · 1.2K Likes · 1.5K Bookmarks
+
+*来源：Framer ([@Framer_X](https://x.com/Framer_X)) - [推文](https://x.com/Framer_X/status/2028144981631029408)*
+
+### 5.5. X书签精选：Why Won’t It Stay?!
+*来自 X 书签的近期 Seedance 2.0 视频案例。*
+
+**帖子文案：**
+```
+Why Won’t It Stay?! 🎬
+
+Seedance 2.0 Prompt shared below
+```
+
+**已确认信息：**
+- 书签页里确认存在嵌入视频
+- 主帖明确写了完整 prompt 在下方
+- 当前可见数据：47.9K Views · 393 Likes · 308 Bookmarks
+
+**尚未恢复：**
+- 跟帖 / 回复链中的完整 prompt 文本
+- 当前浏览器会话下可稳定访问的原始状态链接
+
+**作者主页：** https://x.com/0xbisc
+
+*来源：Latte ([@0xbisc](https://x.com/0xbisc))*
+
+### 5.6. 动态图形
 *使用 3D 动画风格创建动态图形动画。*
 
 **提示词：**
