@@ -112,6 +112,7 @@ https://github.com/user-attachments/assets/a3be2f7e-a30b-4c7e-847b-447d315f6afe
 
 ---
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. MIT licensed.
 ## 2. Advertising & Commercial Branding
 
 Utilize **Seedance AI** for professional product showcases and brand storytelling. These examples demonstrate how to create high-end commercial content.
