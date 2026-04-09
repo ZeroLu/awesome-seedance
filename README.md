@@ -1,5 +1,7 @@
 Last updated on 2026-04-09 13-45-05
 
+## 🐎 Don't Miss [Awesome Happy Horse 1.0](https://github.com/ZeroLu/awesome-happy-horse) — #1 Ranked AI Video Model with Mind-Blowing Consistency! 🔥
+
 # Awesome Seedance 2.0 🎬
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![GitHub stars](https://img.shields.io/github/stars/ZeroLu/awesome-seedance?style=social)](https://github.com/ZeroLu/awesome-seedance/stargazers)
