@@ -14,7 +14,7 @@ This repository focuses on **high-fidelity Seedance 2.0 prompts** sourced from X
 
 
 ### Sponsor: [Seedance 2.0 Price Dropped 44% on Cyberbara.com](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
-[<img width="1200" alt="Seedance 2.0 Price Dropped 44% on Cyberbara.com" src="./assets/seedance2-cyberbara-price-drop-44.webp" />](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
+[<img width="600" alt="Seedance 2.0 Price Dropped 44% on Cyberbara.com" src="./assets/seedance2-cyberbara-price-drop-44.webp" />](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
 
 
 ## 📖 Table of Contents
