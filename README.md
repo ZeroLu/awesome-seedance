@@ -13,8 +13,11 @@ Last updated on 2026-04-20 13-46-28
 This repository focuses on **high-fidelity Seedance 2.0 prompts** sourced from X (Twitter), WeChat, and top prompt engineers. Whether you are looking for **cinematic transitions**, **character consistency**, or complex motion sequences, you will find the most effective inputs here to unlock the full potential of **Seedance AI**.
 
 
-### Sponsor: [Seedance 2.0 Price Dropped 44% on Cyberbara.com](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
-[<img width="600" alt="Seedance 2.0 Price Dropped 44% on Cyberbara.com" src="./assets/seedance2-cyberbara-price-drop-44.webp" />](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
+### Sponsor
+[![Cyberbara Ad](./assets/cyberbara-real-face-upload-banner.webp)](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
+
+> **💡 Struggle with Seedance 2.0 Face Detection?**
+> Cyberbara now supports **real face uploads without limits!** Plus, enjoy our massive price drop. [Unlock your limits at cyberbara.com →](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance)
 
 
 ## 📖 Table of Contents
