@@ -733,6 +733,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [Seedance API Documentation](https://www.jianying.com/) - Integrate **Seedance AI** into your own workflow
 - [ByteDance Jianying Official Site](https://www.jianying.com/) - Platform and tools
 - [twitterxz.com](https://twitterxz.com/) - Twitter video downloader
+- [Seedream AI Studio](https://seedream4.video) - Companion image generation platform using Seedream 5.0/4.5/4.0 models (same ByteDance family). Generate images, then animate them with one-click Kling 2.1 video. Free tier available — great for creators who want to combine still-image creation with Seedance-style video workflows.
 
 
 ## 9. Contributing
