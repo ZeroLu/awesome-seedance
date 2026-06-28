@@ -794,6 +794,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [Seedance 官网](https://seedance.bytebase.com/)
 - [即梦 App 下载](https://www.doubao.com/)
 - [字节跳动 AI 视频生成文档](https://www.volcengine.com/docs/6791/1347778)
+- [Seedance 2.0 AI Video](https://seedance2aivideo.app/) - 免费在线 AI 视频生成工具，基于 Seedance 2.0 模型，支持文字/图片生成视频、原生音频同步、多镜头叙事
 
 ---
 
