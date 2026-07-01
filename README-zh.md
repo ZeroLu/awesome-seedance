@@ -2,7 +2,7 @@ Last updated on 2026-06-30 14-21-39
 
 # Awesome Seedance 2.0 🎬
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![GitHub stars](https://img.shields.io/github/stars/ZeroLu/awesome-seedance?style=social)](https://github.com/ZeroLu/awesome-seedance/stargazers) [![AtomGitStars](https://atomgit.com/ZeroLuAtom/awesome-seedance/star/badge.svg)](https://atomgit.com/ZeroLuAtom/awesome-seedance)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) [![GitHub stars](https://img.shields.io/github/stars/ZeroLu/awesome-seedance?style=social)](https://github.com/ZeroLu/awesome-seedance/stargazers) [![AtomGitStars](https://atomgit.com/ZeroLuAtom/awesome-seedance/star/badge.svg)](https://atomgit.com/ZeroLuAtom/awesome-seedance)
 
 | [English](./README.md) | [简体中文](./README-zh.md) | [Deutsch](./README-de.md) | [Francais](./README-fr.md) | [Espanol](./README-es.md) | [日本語](./README-ja.md) |
 
@@ -817,7 +817,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 
 ## 许可证
 
-本仓库采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可证。
+本仓库采用 [MIT License](./LICENSE)。
 
 ---
 
