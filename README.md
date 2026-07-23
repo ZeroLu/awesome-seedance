@@ -733,7 +733,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [Seedance API Documentation](https://www.jianying.com/) - Integrate **Seedance AI** into your own workflow
 - [ByteDance Jianying Official Site](https://www.jianying.com/) - Platform and tools
 - [twitterxz.com](https://twitterxz.com/) - Twitter video downloader
-
+- [Seedance-2Pro](https://seedance-2pro.com) - Seedance-based AI video generation platform with Kling and Veo model support.
 
 ## 9. Contributing
 
