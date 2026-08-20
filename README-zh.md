@@ -811,7 +811,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 
 ## 10. Star 历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ZeroLu/awesome-seedance&type=Date)](https://star-history.com/#ZeroLu/awesome-seedance&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ZeroLu/awesome-seedance&type=Date)](https://star-history.dera.page/#ZeroLu/awesome-seedance&Date)
 
 ---
 
