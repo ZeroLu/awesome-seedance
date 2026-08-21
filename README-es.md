@@ -549,6 +549,7 @@ https://github.com/user-attachments/assets/ccf43991-7f39-4550-8845-4aff2cec3ed4
 - [Seedance API Documentation](https://www.jianying.com/) - Integra **Seedance AI** en tu propio flujo de trabajo
 - [ByteDance Jianying Official Site](https://www.jianying.com/) - Plataforma y herramientas
 - [twitterxz.com](https://twitterxz.com/) - Descargador de videos de Twitter
+- [Seedance 2.0 AI Video](https://seedance2aivideo.app/) - App web gratuita para generar videos cinematográficos con IA usando el modelo Seedance 2.0, con sincronización de audio nativa y narración multi-plano
 
 <a id="9-contributing"></a>
 ## 9. Contribuir
