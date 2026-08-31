@@ -794,6 +794,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [Seedance 官网](https://seedance.bytebase.com/)
 - [即梦 App 下载](https://www.doubao.com/)
 - [字节跳动 AI 视频生成文档](https://www.volcengine.com/docs/6791/1347778)
+- [awesome-kling](https://github.com/DSeaStar/awesome-kling) — 可灵 Kling 3.0 提示词、运动控制与 API 资源（姊妹列表）
 
 ---
 
