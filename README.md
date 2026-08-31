@@ -733,6 +733,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [Seedance API Documentation](https://www.jianying.com/) - Integrate **Seedance AI** into your own workflow
 - [ByteDance Jianying Official Site](https://www.jianying.com/) - Platform and tools
 - [twitterxz.com](https://twitterxz.com/) - Twitter video downloader
+- [Omni-Rewriter](https://github.com/WayneJin0918/Omni-Rewriter) - Open agentic prompt-expansion harness with a Seedance PE profile (schema + deterministic validation + bounded repair; expand ≠ generate). [Demo](https://waynejin0918.github.io/Omni-Rewriter/)
 
 
 ## 9. Contributing

@@ -794,6 +794,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [Seedance 官网](https://seedance.bytebase.com/)
 - [即梦 App 下载](https://www.doubao.com/)
 - [字节跳动 AI 视频生成文档](https://www.volcengine.com/docs/6791/1347778)
+- [Omni-Rewriter](https://github.com/WayneJin0918/Omni-Rewriter) - 开源 Prompt Expansion Harness，含 Seedance PE profile（Schema + 确定性校验 + 有界修复；扩写 ≠ 生成）。[演示](https://waynejin0918.github.io/Omni-Rewriter/)
 
 ---
 
