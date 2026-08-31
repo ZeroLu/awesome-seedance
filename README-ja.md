@@ -565,10 +565,10 @@ https://github.com/user-attachments/assets/ccf43991-7f39-4550-8845-4aff2cec3ed4
 <a id="10-star-history"></a>
 ## 10. Star History
 
-<a href="https://star-history.com/#ZeroLu/awesome-seedance&Date">
+<a href="https://star-history.dera.page/#ZeroLu/awesome-seedance&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ZeroLu/awesome-seedance&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ZeroLu/awesome-seedance&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ZeroLu/awesome-seedance&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=ZeroLu/awesome-seedance&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=ZeroLu/awesome-seedance&type=Date" />
+   <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=ZeroLu/awesome-seedance&type=Date" />
  </picture>
 </a>
