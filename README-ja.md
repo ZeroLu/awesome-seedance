@@ -549,6 +549,7 @@ https://github.com/user-attachments/assets/ccf43991-7f39-4550-8845-4aff2cec3ed4
 - [Seedance API Documentation](https://www.jianying.com/) - **Seedance AI** を自分のワークフローに統合する
 - [ByteDance Jianying Official Site](https://www.jianying.com/) - プラットフォームとツール
 - [twitterxz.com](https://twitterxz.com/) - Twitter 動画ダウンローダー
+- [Seedance 2.0 AI Video](https://seedance2aivideo.app/) - Seedance 2.0 モデルを使用したテキスト・画像からの AI 動画生成無料オンラインツール。ネイティブ音声同期・マルチショット対応
 
 <a id="9-contributing"></a>
 ## 9. コントリビュート
