@@ -734,6 +734,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [ByteDance Jianying Official Site](https://www.jianying.com/) - Platform and tools
 - [twitterxz.com](https://twitterxz.com/) - Twitter video downloader
 
+- [MiniMax H3 1K prompt dataset](https://neta.art/use-cases/en/h3-1000-prompt-list) - Curated 1K text-to-video prompts: 3-field structure anatomy, 10 reusable prompts, H3 vs. peer comparison.
 
 ## 9. Contributing
 
