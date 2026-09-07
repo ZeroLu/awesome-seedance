@@ -731,6 +731,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [Seedance 2.0 Official Page](https://xyq.jianying.com/) - Access to Seedance 2.0 model for testing
 - [Seedance 2.0 How to Use Guide](https://xyq.jianying.com/) - Learn how to master AI video generation
 - [Seedance API Documentation](https://www.jianying.com/) - Integrate **Seedance AI** into your own workflow
+- [RunAPI Seedance SDK](https://github.com/runapi-ai/seedance-sdk) - JavaScript, Ruby, Go, and Python SDKs for Seedance generation jobs through RunAPI
 - [ByteDance Jianying Official Site](https://www.jianying.com/) - Platform and tools
 - [twitterxz.com](https://twitterxz.com/) - Twitter video downloader
 
