@@ -320,6 +320,17 @@ https://github.com/user-attachments/assets/b2642150-c6ff-48c5-b9b5-e33ed1f65862
 
 *Source: Replicate Blog - [How to make remarkable videos with Seedance 2.0](https://replicate.com/blog/seedance-2)*
 
+### 3.3. Beat-Synced Party Scene from One Photo (20 moves on a 129.3 BPM track)
+*One photo, one continuous 20-second shot, and a fixed 20-beat action list timed to the supplied track.*
+
+**Prompt:**
+```text
+A 20-second single continuous shot from one reference photo. Photorealistic live-action, 30fps, handheld at chest height drifting slightly, shallow depth of field, no cuts. Identity lock: the face, hairstyle, hair colour and any visible clothing must match the reference photo in every frame. Scene: an upscale private party room at night — dark wood-panelled walls, one large crystal chandelier, a bar-height table with green LED under-lighting, teal accent lighting, about twenty people dancing behind, and on the right a woman with her hair in two space buns. The supplied track is 129.3 BPM (one beat every 0.464s) and the action is a fixed 20-beat list, every move given its own time window: lean and sway with the cup out; turn to the camera, cup in to chest; wave at the lens; stand up singing along; cup up to shoulder height; the big arm swing, twice; free hand up near the face, eyes closing; cup high with both hands; turn to the woman on the right and clink cups twice; both arms open celebrating; back to the camera, point at it; drink, the cup covering the lower face; lower the cup and smile; wave, then a full cheer at 20.09s as the crowd raises their arms. The supplied track is the only audio — no generated music, ambience, crowd noise, cheering or speech. No on-screen text, captions, subtitles, watermarks or logos. Vertical 9:16 or widescreen 16:9.
+```
+
+![The 20 beats, timed against the track](https://raw.githubusercontent.com/baichuang-lin/burning-bridges-prompt/main/examples/beat-map.png)
+
+*Source: Burning Bridges AI - [The party-scene prompt, published in full](https://github.com/baichuang-lin/burning-bridges-prompt)*
 ---
 
 ## 4. UGC Style
