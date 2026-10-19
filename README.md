@@ -734,6 +734,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 
 ## 8. Resources
 
+- [Cuddler Platform API](https://platform.cuddler.ai/docs) - Organization-key API for asynchronous Seedance video jobs, estimates, task recovery and authenticated media retrieval; [Streamable HTTP MCP](https://platform.cuddler.ai/docs/mcp). Check the model catalog for current availability.
 - [Seedance 2.0 Official Page](https://xyq.jianying.com/) - Access to Seedance 2.0 model for testing
 - [Seedance 2.0 How to Use Guide](https://xyq.jianying.com/) - Learn how to master AI video generation
 - [Seedance API Documentation](https://www.jianying.com/) - Integrate **Seedance AI** into your own workflow
