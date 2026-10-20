@@ -739,6 +739,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [Seedance API Documentation](https://www.jianying.com/) - Integrate **Seedance AI** into your own workflow
 - [ByteDance Jianying Official Site](https://www.jianying.com/) - Platform and tools
 - [twitterxz.com](https://twitterxz.com/) - Twitter video downloader
+- [vflow — Seedance 2.0 prompt references](https://vflow.live/prompts/seedance-2-0/) - Video previews beside source prompts, with creator attribution and camera/lighting filters. Free to browse, no account required.
 
 
 ## 9. Contributing
