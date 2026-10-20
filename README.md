@@ -738,6 +738,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [Seedance 2.0 How to Use Guide](https://xyq.jianying.com/) - Learn how to master AI video generation
 - [Seedance API Documentation](https://www.jianying.com/) - Integrate **Seedance AI** into your own workflow
 - [ByteDance Jianying Official Site](https://www.jianying.com/) - Platform and tools
+- [Seedance 2.5 on Bimg AI](https://bimg.ai/seedance2-5) - Browser-based Seedance 2.5 text-to-video and image-to-video generator for testing the prompts in this list
 - [twitterxz.com](https://twitterxz.com/) - Twitter video downloader
 
 
