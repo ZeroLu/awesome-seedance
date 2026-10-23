@@ -802,6 +802,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [字节跳动 AI 视频生成文档](https://www.volcengine.com/docs/6791/1347778)
 
 ---
+- [Soutine Seedance 提示词库](https://soutine.ai/seedance-prompts) - 免费 Seedance 视频提示词，带成片预览，可复制镜头语言与分镜
 
 ## 9. 贡献指南
 
