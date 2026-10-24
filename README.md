@@ -738,6 +738,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [Seedance 2.0 How to Use Guide](https://xyq.jianying.com/) - Learn how to master AI video generation
 - [Seedance API Documentation](https://www.jianying.com/) - Integrate **Seedance AI** into your own workflow
 - [ByteDance Jianying Official Site](https://www.jianying.com/) - Platform and tools
+- [KreatorFlow Seedance API](https://kreatorflow.ai/seedance-api) - Seedance 2.5, 2.0, Fast and Mini through one API key, per-second prepaid pricing, with open [curl/Python/Node examples](https://github.com/stevensons-28/seedance-api)
 - [twitterxz.com](https://twitterxz.com/) - Twitter video downloader
 
 
