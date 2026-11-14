@@ -737,6 +737,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [Seedance 2.0 Official Page](https://xyq.jianying.com/) - Access to Seedance 2.0 model for testing
 - [Seedance 2.0 How to Use Guide](https://xyq.jianying.com/) - Learn how to master AI video generation
 - [Seedance API Documentation](https://www.jianying.com/) - Integrate **Seedance AI** into your own workflow
+- [Revana Seedance 2.5 API](https://revana.si/models/seedance-2.5) - Seedance 2.5 and 2.0 over one REST API key, with an MCP server for Claude and Cursor; billed only for clips that succeed
 - [ByteDance Jianying Official Site](https://www.jianying.com/) - Platform and tools
 - [twitterxz.com](https://twitterxz.com/) - Twitter video downloader
 
