@@ -739,6 +739,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [Seedance API Documentation](https://www.jianying.com/) - Integrate **Seedance AI** into your own workflow
 - [ByteDance Jianying Official Site](https://www.jianying.com/) - Platform and tools
 - [twitterxz.com](https://twitterxz.com/) - Twitter video downloader
+- [Seedance Now](https://seedancenow.com/) - Browser studio to run the prompts in this list on Seedance 2.5 (plus Kling 4.0 and Wan 3.0), text-to-video and image-to-video up to 30s 1080p; independent, not affiliated with ByteDance
 
 
 ## 9. Contributing
