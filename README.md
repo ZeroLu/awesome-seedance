@@ -739,7 +739,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [Seedance API Documentation](https://www.jianying.com/) - Integrate **Seedance AI** into your own workflow
 - [ByteDance Jianying Official Site](https://www.jianying.com/) - Platform and tools
 - [twitterxz.com](https://twitterxz.com/) - Twitter video downloader
-
+- [Soutine Seedance Prompt Library](https://soutine.ai/seedance-prompts) - Free Seedance video prompts with real clip previews; copy-ready camera language and shot lists
 
 ## 9. Contributing
 
