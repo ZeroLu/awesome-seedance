@@ -741,6 +741,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [twitterxz.com](https://twitterxz.com/) - Twitter video downloader
 
 
+- [Gugugaga Penguin Seedance prompt method](https://gugugagapenguin.online/gugugaga-penguin-prompts/) - Free character-consistent image + motion prompt workflow for Seedance, Kling AI, Midjourney and Flux, with a worked example of editing one layer at a time
 ## 9. Contributing
 
 Contributions are welcome! If you have an **awesome Seedance 2.0 prompt**, please submit a Pull Request.
