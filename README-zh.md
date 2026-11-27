@@ -800,6 +800,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [Seedance 官网](https://seedance.bytebase.com/)
 - [即梦 App 下载](https://www.doubao.com/)
 - [字节跳动 AI 视频生成文档](https://www.volcengine.com/docs/6791/1347778)
+- [OmniMux](https://github.com/omnimux-ai/omnimux-client) - 开源本地 AI 视频工作台（macOS / Windows），工作流画布内置 Seedance 2.0 / 2.5 节点，集成商品库、数字人资产库与多轨剪辑
 
 ---
 
