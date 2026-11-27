@@ -739,6 +739,7 @@ https://github.com/user-attachments/assets/99f1d923-b995-4bc7-ac6a-5fcf491ea7cd
 - [Seedance API Documentation](https://www.jianying.com/) - Integrate **Seedance AI** into your own workflow
 - [ByteDance Jianying Official Site](https://www.jianying.com/) - Platform and tools
 - [twitterxz.com](https://twitterxz.com/) - Twitter video downloader
+- [OmniMux](https://github.com/omnimux-ai/omnimux-client) - Open-source local AI video studio for macOS & Windows with Seedance 2.0 / 2.5 workflow canvas nodes, product/asset libraries, and multi-track timeline editing
 
 
 ## 9. Contributing
